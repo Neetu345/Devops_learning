@@ -1,1 +1,1 @@
-hello
+THIS IS first line in practicing git
